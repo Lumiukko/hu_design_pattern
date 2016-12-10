@@ -1,5 +1,7 @@
 # Heads Up Design Pattern in Ruby
 
+-- Currently on hold, as there is no need for me to practice Ruby at this time. --
+
 This repository is for myself practicing Ruby and refreshing design pattern.
 
 I am attempting to implement the design pattern from the book in Ruby.
